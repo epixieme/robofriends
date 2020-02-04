@@ -1,4 +1,4 @@
-This project is part of the react learning component from The Complete Web Developer:Zero to Mastery
+This project is part of the react learning component from The Complete Web Developer:Zero to Mastery.
 
 
 
