@@ -2,10 +2,7 @@ import React from 'react'
 import Card from './Card'
 
 const CardList =({robots})=>{ // destructured, see card.js for details off how
-
-
-
-	return (
+return (
 	<div>
 	{
 		robots.map((user,i) => {
